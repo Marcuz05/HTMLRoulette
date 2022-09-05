@@ -1,0 +1,20 @@
+body {
+    background-image: url("Bilder/background2.jpg") ;
+}
+
+.rad {
+    position: absolute;
+}
+
+#innen {
+    /* rotate: 165.405deg; */
+}
+
+#ball {
+    /* rotate: 48.6486deg; */
+    /* filter: invert(); */
+}
+
+button {
+    position: absolute;
+}
